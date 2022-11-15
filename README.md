@@ -10,3 +10,4 @@ Eğer film mevcut değil ise talep edilebilir.
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 PatikaDev ödevidir.
+![](https://raw.githubusercontent.com/VMA9/OnlineMovieSystem/master/Ba%C5%9Fl%C4%B1ks%C4%B1z%20Diyagram.drawio.png)
